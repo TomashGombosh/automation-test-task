@@ -1,4 +1,4 @@
-# Uptake frontend app
+# Automation AQA homework
 
 ## Table of contents
 * [Preconditions](#preconditions)
