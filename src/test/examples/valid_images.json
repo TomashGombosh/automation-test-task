@@ -1,0 +1,10 @@
+[
+  {
+    "image": "src/test/assets/avatar.jpeg",
+    "extension": "jpeg"
+  },
+  {
+    "image": "src/test/assets/avatar.png",
+    "extension": "png"
+  }
+]
